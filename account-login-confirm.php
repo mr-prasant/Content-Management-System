@@ -56,8 +56,8 @@
         </div>
     </div>
 </body>
-<script>
-    console.log(document.cookie);
-</script>
+<script src="./js/feedback.js"></script>
+<script src="./js/navBtn.js"></script>
+<script src="./js/account-login.js"></script>
 
 </html>

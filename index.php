@@ -71,6 +71,4 @@
 </body>
 <script src="./js/navBtn.js"></script>
 <script src="./js/index.js"></script>
-<script>
-</script>
 </html>

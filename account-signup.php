@@ -35,4 +35,5 @@
 </body>
 <script src="./js/feedback.js"></script>
 <script src="./js/account-signup.js"></script>
+<script src="./js/navBtn.js"></script>
 </html>

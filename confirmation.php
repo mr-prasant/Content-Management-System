@@ -67,5 +67,6 @@
         </div>
     </div>
 </body>
-
+<script src="./js/feedback.js"></script>
+<script src="./js/navBtn.js"></script>
 </html>

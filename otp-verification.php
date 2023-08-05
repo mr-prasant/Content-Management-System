@@ -56,5 +56,4 @@
 <script src="./js/navBtn.js"></script>
 <script src="./js/account-otp-verification.js"></script>
 <script src="./js/feedback.js"></script>
-
 </html>

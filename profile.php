@@ -105,5 +105,4 @@
 </body>
 <script src="./js/navBtn.js"></script>
 <script src="./js/myProfile.js"></script>
-
 </html>

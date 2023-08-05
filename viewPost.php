@@ -129,5 +129,4 @@
 <script src="./js/navBtn.js"></script>
 <script src="./js/feedback.js"></script>
 <script src="./js/view.js"></script>
-
 </html>
