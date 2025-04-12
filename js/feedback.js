@@ -37,7 +37,7 @@ feedbackBackBtn.addEventListener("click", () => {
 
 function shareFeedbackMail(msg) {
   Email.send({
-    SecureToken: "cea665f0-f786-4cee-b1b8-fd14858636d1",
+    SecureToken: "your-token",
     To: "prasantpoddar27@gmail.com",
     From: "prasantpoddar27@gmail.com",
     Subject: "CMS Project Feedback",
